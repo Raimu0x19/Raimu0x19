@@ -1,15 +1,7 @@
 <div align="center">
 
-<img src="raimu0x19.png" width="200" height="200" alt="Raimu0x19"/>
+<img src="profile.png" width="450" height="350" alt="Raimu0x19"/>
 
-```
-  ____       _                  ___       _  ___  
- |  _ \ __ _(_)_ __ ___  _   _ / _ \__  _/ |/ _ \ 
- | |_) / _` | | '_ ` _ \| | | | | | \ \/ / | (_) |
- |  _ < (_| | | | | | | | |_| | |_| |>  <| |\__, |
- |_| \_\__,_|_|_| |_| |_|\__,_|\___//_/\_\_|  /_/ 
-                                                  
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14FAC1&center=true&vCenter=true&width=600&lines=Bug+Bounty+Hunter+%F0%9F%8E%AF;Security+Researcher+%F0%9F%94%90;CVE+Researcher+%26+PoC+Builder+%F0%9F%92%A3;WordPress+Vulnerability+Analyst+%F0%9F%94%8D" alt="Typing SVG" />
 
